@@ -5,10 +5,10 @@ body {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-style: normal;
   font-variant: normal;
-  font-weight: 700;
+
 }
 div {
-  width: 37vw;
+  width: 40vw;
   margin: 0 auto;
 }
 hr {
@@ -36,7 +36,8 @@ h1 {
 }
 .video {
   width: 100%;
-  height: 400px;
+  height: 100%;
+  height: 500px;
   object-fit: cover;
 }
 .sottoimmagine {
